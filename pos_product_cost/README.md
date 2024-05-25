@@ -11,3 +11,9 @@ Features
 
 - One click install
 - Informative total cost on tree view, form and pivot
+
+Contact Us
+--------
+
+For any information or inconvenient related to our products 
+please contact us with the following email address: alexesteves@gmail.com 

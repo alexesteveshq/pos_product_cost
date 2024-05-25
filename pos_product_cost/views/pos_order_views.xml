@@ -6,7 +6,7 @@
         <field name="inherit_id" ref="point_of_sale.view_pos_order_tree"/>
         <field name="arch" type="xml">
             <field name="state" position="before">
-                <field name="order_cost" sum="Cost" optional="hide"/>
+                <field name="order_cost" sum="Cost" optional="show"/>
             </field>
         </field>
     </record>
@@ -22,6 +22,9 @@
                    class="oe_subtotal_footer_separator"
                    widget="monetary"/>
             </field>
+            <xpath expr="//field[@name='lines']/tree/field[@name='total_cost']" position="attributes">
+                <attribute name="optional">show</attribute>
+            </xpath>
         </field>
     </record>
 </odoo>

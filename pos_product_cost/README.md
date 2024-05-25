@@ -16,4 +16,4 @@ Contact Us
 --------
 
 For any information or inconvenient related to our products 
-please contact us with the following email address: alexesteves@gmail.com 
+please contact us with the following email address: alexesteveshq@gmail.com 

@@ -20,7 +20,7 @@
         'views/pos_order_views.xml',
         'views/pos_order_report_view.xml',
     ],
-    'price': 30,
+    'price': 20,
     'currency': 'EUR',
     'license': 'AGPL-3',
     'installable': True,

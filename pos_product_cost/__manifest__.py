@@ -9,6 +9,7 @@
     'description': 'Adds product cost in point of sale order and lines',
     'category': 'Point of sale',
     'author': 'Visionee',
+    'website': 'https://visionee.net',
     'version': '16.0.1.0',
     'depends': [
         'point_of_sale',
